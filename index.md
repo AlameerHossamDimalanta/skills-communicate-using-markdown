@@ -16,3 +16,8 @@ initialized empty Git repository in /skills-communicate-using-markdown/index.md/
 Array = [1,2,3,4,5]
 print(Array)
 ```
+
+- [x] Learn the basics of github workflow
+- [ ] Outline my portfolio page
+- [ ] lunch the portfolio page
+      
